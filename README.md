@@ -30,3 +30,6 @@
     - Step5：對 dev-v? 分支或  feature-?-v? 分支發出 PR
     - Step6：審核完成後 merged
 
+- git flow example:
+   - [PR example](https://github.com/datasci-info/covid19tw-data/pull/1/commits/4858a6dbe59a9a754e5aea9213d7e635b5cfb3eb)
+
